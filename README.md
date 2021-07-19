@@ -1,0 +1,1 @@
+This repo contains my study notes of [Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry) by Gerald Jay Sussman and Jack Wisdom. It is written using [Sicmutils](https://github.com/sicmutils/sicmutils) (Scmutils in Clojure) in jupyter notebooks via [Clojupyter](https://github.com/clojupyter/clojupyter).
